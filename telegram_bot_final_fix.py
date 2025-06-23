@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 # ================================
 
 # Replace with your bot token from @BotFather
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "7716214550:AAF9j3RQRRMex1WlBN0iYL8wy0Zy7PuXRoI"
 
 # Global application instance
 application = None
